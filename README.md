@@ -1,10 +1,14 @@
 ## Hi there 👋
 
+
+<!--
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=priyankchopra2)](https://github.com/ryo-ma/github-profile-trophy)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankchopra2&hide=javascript,css,scss,html&theme=tokyonight&exclude_repo=Vride,virtusa)
 
-<!--
+
 **priyankchopra2/priyankchopra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
